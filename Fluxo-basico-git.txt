@@ -10,4 +10,10 @@ git push origin main
 
 git status --> ver os arquivos que estão untracked, staged, etc.
 
+*agora estamos na branch main*
 
+git branch -M main --> Renomeia a branch principal 
+
+git checkout -b "nome da branch" --> trocar para outra branch
+
+git branch --> mostra as branch existentes
