@@ -1,0 +1,13 @@
+git init --> inicia um repositório local  
+
+git remote add origin "link do repositório do gitHub"
+
+git add . --> adicionad todos os arquivos para staged (ponto quer dizer que adiciona todos os arquivos)
+
+git commit -m "mensagem do commit" 
+
+git push origin main 
+
+git status --> ver os arquivos que estão untracked, staged, etc.
+
+
